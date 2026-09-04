@@ -6,7 +6,7 @@ export const siteConfig = {
   phone: "0426 820 063",
   email: "hello@welcomehomeswa.com.au",
   address: "Perth, Western Australia",
-  abn: "00 000 000 000",
+  abn: "59 673 910 711",
   social: {
     instagram: "#",
     facebook: "#",
